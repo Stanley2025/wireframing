@@ -7,7 +7,6 @@ Wireframing is the process of creating a visual guide that represents the skelet
 Wireframes are essential in the early stages of UI/UX design. They help teams visualize the structure of an application, test user flows, and identify potential issues before development begins. By aligning stakeholders and developers, wireframes reduce development costs and improve usability.
 
 # Key Elements of Wireframing
-# Key Elements of Wireframing
 
 1. Layout Structure  
    Defines the positioning of components. Example: Placing the navigation bar at the top and content in the center.
